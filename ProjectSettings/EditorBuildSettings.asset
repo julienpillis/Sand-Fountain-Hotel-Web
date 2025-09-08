@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
+    path: Assets/Scenes/Parking.unity
+    guid: 7f0bbe762c044f04198005678f9b2440
+  - enabled: 0
     path: Assets/Scenes/Galactic Center.unity
     guid: ea07d7c4b8e8f674fb778004d70aa860
   - enabled: 1
