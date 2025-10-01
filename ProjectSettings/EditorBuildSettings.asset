@@ -6,20 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Sand Fountain Hotel/SandFountainRod.unity
-    guid: a1cebe410b5dd1548bacf94332b746b3
-  - enabled: 1
-    path: Assets/Scenes/Parking.unity
-    guid: 7f0bbe762c044f04198005678f9b2440
-  - enabled: 1
-    path: Assets/Scenes/Galactic Center.unity
-    guid: ea07d7c4b8e8f674fb778004d70aa860
-  - enabled: 1
     path: Assets/Scenes/Lobby.unity
     guid: 4755b35b590504809a7525fd2109c2e2
   - enabled: 1
     path: Assets/Scenes/Sand Fountain Hotel/SandFountainScott.unity
     guid: 957ffd1049965b0449fbe09ed794f5e1
+  - enabled: 1
+    path: Assets/Scenes/Sand Fountain Hotel/SandFountainRod.unity
+    guid: a1cebe410b5dd1548bacf94332b746b3
   - enabled: 1
     path: Assets/Scenes/Sand Fountain Hotel/SandFountainCaitlin.unity
     guid: 19852b2edb0c43240a9666e9047da95c
