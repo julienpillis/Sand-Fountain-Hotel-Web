@@ -1,9 +1,11 @@
-# The Grand Hotels – AR Project
+# The Sand Fountain Hotel – AR Project
 
 This project is part of the **Extending Digital Narrative (XDN)** research group, led by **Scott Rettberg**, from the **Center Digital Narrative** (Bergen, Norway).
 
 **Grand Hotels** scenarios are written by **Roderick Coover**, **Caitlin Fisher**, and **Scott Rettberg**.  
 It is inspired by Robert Coover’s book *The Grand Hotels (of Joseph Cornell)*, and explores how literature and art can be reimagined through immersive technologies.
+
+This is the repository for the Sand Fountain Hotel.
 
 ---
 
