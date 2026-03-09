@@ -1,3 +1,4 @@
 Assets/** filter=lfs diff=lfs merge=lfs -text
-SFHBuild/Build/** filter=lfs diff=lfs merge=lfs -text
+*.wasm binary
+*.data binary
 tmp/**/* filter=lfs diff=lfs merge=lfs -text
